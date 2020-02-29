@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691324757356",
+    "firebase_url": "https://adwliah-cookware.firebaseio.com",
+    "project_id": "adwliah-cookware",
+    "storage_bucket": "adwliah-cookware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691324757356:android:2b4f98b4d718eeeddc3f49",
+        "android_client_info": {
+          "package_name": "husseinm19.github.com.adwliahfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691324757356-gjrmmbjakqdgfp02dvn7tuml5rpmvpd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "husseinm19.github.com.adwliahfinal",
+            "certificate_hash": "9c1c488c982654a7f39d671d1f060451f240ea75"
+          }
+        },
+        {
+          "client_id": "691324757356-kie5065sb7mfejj4svj2ttr8mjvpb3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhS244cwyf21ObJQgf5hq17o3nAacXPhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691324757356-kie5065sb7mfejj4svj2ttr8mjvpb3no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

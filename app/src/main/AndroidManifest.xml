@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="husseinm19.github.com.adwliahfinal"
+
+    android:installLocation="auto"
+    android:versionCode="32"
+    android:versionName="2.0"
+    >
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="الدولية"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UseAndCare"></activity>
+        <activity android:name=".OtherProductsBad" />
+        <activity android:name=".titaniuum" />
+        <activity android:name=".CertificationActivity" />
+        <activity
+            android:name=".ConceptPlus"
+            android:label="Concept Plus" />
+        <activity
+            android:name=".DimaondTitanBest"
+            android:label="Diamond Titan Best" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>
